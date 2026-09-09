@@ -1,8 +1,8 @@
 {
-  "name": "you-com",
+  "name": "hi-marketing-africa",
   "version": "1.0.0",
   "private": true,
-  "description": "Site commercial You' Com - agence de communication digitale 360°",
+  "description": "HI MARKETING — Digital, Software & Growth",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
@@ -10,8 +10,6 @@
   },
   "engines": {"node": ">=20"},
   "dependencies": {
-    "express": "^5.1.0",
-    "pg": "^8.16.3",
-    "nodemailer": "^7.0.6"
+    "express": "^4.21.2"
   }
 }
